@@ -5,10 +5,12 @@ To get started, clone this repository:
 git clone <repository-url>
 ```
 ## Step 2. Create your environment file
+###### Create a file <repository_root>/dashboardx/utils/.env
+```bash
+$ touch <repository_root>/dashboardx/utils/.env
+```
 ###### It must contain the following keys
 ```bash
-Create a file <repository_root>/dashboardx/utils/.env
-$ touch <repository_root>/dashboardx/utils/.env
 1. DB_CONNECTION_URL
 2. DATABSE_NAME
 3. OPENAI_API_KEY
