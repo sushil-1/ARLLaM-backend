@@ -4,9 +4,11 @@ To get started, clone this repository:
 ```bash
 git clone <repository-url>
 ```
-## Step 2. Create a .env file in ARLLaM-backend/dashboardx/utils/ 
+## Step 2. Create your environment file
 ###### It must contain the following keys
 ```bash
+Create a file <repository_root>/dashboardx/utils/.env
+$ touch <repository_root>/dashboardx/utils/.env
 1. DB_CONNECTION_URL
 2. DATABSE_NAME
 3. OPENAI_API_KEY
