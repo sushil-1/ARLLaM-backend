@@ -3,8 +3,7 @@ To get started, clone this repository:
 
 ```bash
 git clone <repository-url>
-
-```text
+```
 ## Step 2. Create a .env file in ARLLaM-backend/dashboardx/utils/ 
 ###### It must contain the following keys
 1. DB_CONNECTION_URL
