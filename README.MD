@@ -1,4 +1,8 @@
 #### Clone the Repo
+To get started, clone this repository:
+
+```bash
+git clone <repository-url>```
 
 #### Create a .env file in ARLLaM-backend/dashboardx/utils/ 
 ###### It must contain the following keys
